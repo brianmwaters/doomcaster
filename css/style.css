@@ -1,3 +1,14 @@
 * {
   margin: 0px;
 }
+
+body {
+  overflow: hidden;
+}
+
+#status {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
